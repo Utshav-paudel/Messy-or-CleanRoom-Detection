@@ -1,5 +1,5 @@
 # Messy-or-CleanRoom-Detection
-In this project I will finetune pretrained VGG16 model using transfer learning to detect clean or messy room
+In this project I had finetuned pretrained VGG16 model using transfer learning to detect clean or messy room.
 * [**Datasets**](https://www.kaggle.com/datasets/cdawn1/messy-vs-clean-room?resource=download)
 ## Reasons for using Transfer Learning in this project :
 Due to the limitation of training data transfer learning was best option for this project.
